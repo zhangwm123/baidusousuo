@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7054" started-at="2019-03-18T01:34:41Z" finished-at="2019-03-18T01:34:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7054" started-at="2019-03-18T01:34:41Z" finished-at="2019-03-18T01:34:48Z">
+      <class name="jenkinsbaidu.loginutil">
+        <test-method status="PASS" signature="open()[pri:0, instance:jenkinsbaidu.loginutil@18e8568]" name="open" is-config="true" duration-ms="4926" started-at="2019-03-18T09:34:41Z" finished-at="2019-03-18T09:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="baidu()[pri:0, instance:jenkinsbaidu.loginutil@18e8568]" name="baidu" duration-ms="2101" started-at="2019-03-18T09:34:46Z" finished-at="2019-03-18T09:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baidu -->
+        <test-method status="PASS" signature="tuichu()[pri:0, instance:jenkinsbaidu.loginutil@18e8568]" name="tuichu" is-config="true" duration-ms="0" started-at="2019-03-18T09:34:48Z" finished-at="2019-03-18T09:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tuichu -->
+      </class> <!-- jenkinsbaidu.loginutil -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
